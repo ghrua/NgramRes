@@ -1,0 +1,5 @@
+fastBPE==0.1.0
+sacrebleu==1.5.1
+torch==1.8.0+cu101
+torchaudio==0.8.0
+sacremoses==0.0.46
